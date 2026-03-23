@@ -2,7 +2,7 @@
 
 I am a Computer Science student passionate about software development and technology.
 
-🌱 I’m currently learning the MERN stack and improving my DSA skills.  
+🌱 I’m currently learning the Kotlin programming language and improving my AI skills.  
 📫 How to reach me: suvarnabavith@gmail.com
 
 ---
